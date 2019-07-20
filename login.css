@@ -1,0 +1,74 @@
+body{
+margin:0;
+padding:0;
+background:#f9f8f2;	
+}
+h1,h2,h3,h4,h5,h6,p,ul,li,span,i{margin:0;padding:0;}
+
+.full_bdy{
+	background-image:url("bck.jpg");
+	min-height:600px;
+}
+
+.left_area{
+	background-color: #edf1f3;
+	min-height: 600px;
+}
+.my_img{
+	text-align: center;
+	margin-top: 100px;
+
+}
+.frm_area{
+	margin:0 auto;
+	background-color: white;
+	min-width: 400px;
+	min-height: 350px;
+	margin-left: 130px;
+}
+
+.text{
+	color: #6d79de;
+	margin-top: 20px;
+}
+.btn-primary{
+	background:#f3703a;
+	color:white;
+	width: 100%;
+	border-radius: 10px;
+	margin-top: 20px;
+
+}
+.text_frgt{
+	margin-top: 20px;
+	text-align: center;
+	color: #6d79de;
+	
+}
+.ryt_area{
+	background-color: #468e8e;
+	min-height: 600px;
+	opacity: 0.8;
+
+}
+.ryt_area h3{
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+}
+.ryt_area h1{
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+}
+.ryt_area h2{
+	color: white;
+	font-weight: bold;
+	margin-top: 50px;
+	font-size: 25px;
+}
+
+.my_img{
+	margin-top: 20px;
+	text-align: center;
+}

@@ -1,0 +1,27 @@
+body{
+margin:0;
+padding:0;
+background:#f9f8f2;	
+}
+h1,h2,h3,h4,h5,h6,p,ul,li,span,i{margin:0;padding:0;}
+
+
+.full_bdy{
+	background-image: url("img/bck1.jpg");
+	min-height: 700px;
+}
+.header{
+	padding-top: 50px;
+}
+.my_img{
+	text-align: center;
+}
+
+.btn-primary{
+	background:#02c396;
+	color:white;
+	width: 100%;
+	border-radius: 5px;
+	margin-top: 20px;
+
+}
